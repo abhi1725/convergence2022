@@ -125,6 +125,7 @@ ul {
 
 p {
   font-size: 15px;
+  font-weight: 700;
   line-height: 30px;
   color: #2a2a2a;
 }
@@ -875,12 +876,11 @@ Banner Style
   background-image: url(../images/green.png);
   background-repeat: no-repeat;
   position: absolute;
-  left: 0px;
-  top: 105px;
-  width: 2200px;
+  left: 0;
+  top: 100px;
+  width: 1000px;
   height: 532px;
 }
-
 
 .main-banner:before {
   content: '';
@@ -901,7 +901,8 @@ Banner Style
 .main-banner .item h6 {
   text-transform: uppercase;
   font-size: 18px;
-  color: #ff695f;
+  font-weight: 800;
+  color: #ff1100;
   margin-bottom: 15px;
 }
 
@@ -918,7 +919,7 @@ Banner Style
 }
 
 .main-banner .item h2 span {
-  color: #ff695f;
+  color: #ff3324;
 }
 
 .main-banner .item p {
@@ -931,7 +932,6 @@ Banner Style
 
 .main-banner .item .down-buttons .call-button i {
   margin-right: 5px;
-  margin-top: 10px;
   width: 46px;
   height: 46px;
   display: inline-block;
