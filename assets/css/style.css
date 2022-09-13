@@ -79,8 +79,8 @@ h1 {
 }
 
 #card {
-  height: 90px;
-  width: 90px;
+  height: 85px;
+  width: 85px;
 }
 
 @media all and (max-width: 768px) {
