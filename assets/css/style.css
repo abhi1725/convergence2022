@@ -55,7 +55,7 @@ h1 {
   text-transform: uppercase;
 }
 
-li {
+#count {
   display: inline-block;
   font-size: 1.5em;
   list-style-type: none;
@@ -63,7 +63,7 @@ li {
   text-transform: uppercase;
 }
 
-li span {
+#count span {
   display: block;
   font-size: 4.5rem;
 }
